@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Wuhan University.
-
+- 🔭 I’m currently working on Shopee.
+- 🌱 I’m currently learning k8s.
 
 
 <!--
